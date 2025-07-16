@@ -1,7 +1,10 @@
+using Portfoliodocker.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddSingleton<CertificationService>();
 
 var app = builder.Build();
 
