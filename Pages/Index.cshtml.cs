@@ -1,19 +1,18 @@
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-
-namespace Portfoliodocker.Pages;
+using Portfoliodocker.Models;
+using Portfoliodocker.Services;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 
 public class IndexModel : PageModel
 {
-    private readonly ILogger<IndexModel> _logger;
-
-    public IndexModel(ILogger<IndexModel> logger)
+    private readonly CertificationService _certService;
+    public IndexModel(CertificationService certService)
     {
-        _logger = logger;
+        _certService = certService;
     }
-
+    public List<Certification> Certifications { get; set; }
     public void OnGet()
     {
-
+        Certifications = _certService.GetCertifications();
     }
 }

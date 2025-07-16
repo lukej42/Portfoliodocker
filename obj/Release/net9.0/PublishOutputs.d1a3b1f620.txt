@@ -1,0 +1,7 @@
+/Users/luke.gumbleton/Documents/Azure/Github/Portfoliodocker/bin/Release/net9.0/publish/Portfoliodocker
+/Users/luke.gumbleton/Documents/Azure/Github/Portfoliodocker/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/luke.gumbleton/Documents/Azure/Github/Portfoliodocker/bin/Release/net9.0/publish/appsettings.json
+/Users/luke.gumbleton/Documents/Azure/Github/Portfoliodocker/bin/Release/net9.0/publish/Portfoliodocker.dll
+/Users/luke.gumbleton/Documents/Azure/Github/Portfoliodocker/bin/Release/net9.0/publish/Portfoliodocker.deps.json
+/Users/luke.gumbleton/Documents/Azure/Github/Portfoliodocker/bin/Release/net9.0/publish/Portfoliodocker.runtimeconfig.json
+/Users/luke.gumbleton/Documents/Azure/Github/Portfoliodocker/bin/Release/net9.0/publish/Portfoliodocker.pdb
