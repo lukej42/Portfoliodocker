@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Portfoliodocker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e4fe301669d5e432a97baf213638bef9c6ab9dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b42cb35e8c2575ab44e6f426b13700cdcc51bcee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Portfoliodocker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Portfoliodocker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
